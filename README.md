@@ -6,7 +6,7 @@ The purpose of this repository is to store and control the version of scripts re
 - [Pedro G. de Paula](pedrogp650@gmail.com)
 
 ## Key Users
-- [Helon Ayala]()
+- [Helon Ayala](helon.ayala@pucpr.br)
 
 ## Technologies/Languages
 - Matlab
