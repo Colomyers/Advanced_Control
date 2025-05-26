@@ -15,7 +15,7 @@ clear
 clc
 close all
 
-% addpath(genpath('C:\Users\helon\Documents\MATLAB\casadi'));
+% addpath(genpath('./casadi'));
 import casadi.*
 
 x1 = SX.sym('x1');
